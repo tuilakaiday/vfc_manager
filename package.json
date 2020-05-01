@@ -1,0 +1,25 @@
+{
+  "name": "server",
+  "version": "1.0.0",
+  "description": "\\",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tuilakaiday/vfc_manager.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tuilakaiday/vfc_manager/issues"
+  },
+  "homepage": "https://github.com/tuilakaiday/vfc_manager#readme",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "exceljs": "^3.9.0",
+    "express": "^4.17.1",
+    "mysql": "^2.18.1"
+  }
+}
